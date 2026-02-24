@@ -1,6 +1,10 @@
 # बातचीत (Baatcheet) - AI-Powered Video Chat Platform
 
 A modern video chat application that connects strangers worldwide through face-to-face conversations, enhanced with AI-powered conversation suggestions and voice analysis.
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/ad2e5a08-c551-4cf4-96cd-ed09005b8995" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/421c2ca2-9968-4f63-b365-5670ff334cf0" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/f5cdbc4a-3aca-4c18-98c9-507c946d12a5" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/464aa9b1-846a-4a2d-b2db-6f84b2474823" />
 
 ## 🌟 Features
 
@@ -161,60 +165,6 @@ npm run dev
 - **Socket.io** - Signaling and real-time events
 - **STUN/TURN Servers** - NAT traversal for WebRTC
 
-## 📱 Usage Guide
-
-### For Users
-
-1. **Registration/Login**
-   - Visit the application URL
-   - Create an account or sign in
-   - Access your personalized dashboard
-
-2. **Starting a Video Chat**
-   - Click "Enter Video Chat" on the dashboard
-   - Allow camera and microphone permissions
-   - Wait for automatic connection with another user
-
-3. **Using AI Assistant**
-   - Click the "AI Questions" button during video chat
-   - Select a category that interests you
-   - Choose from suggested questions to keep the conversation flowing
-
-4. **Voice Recording & Analysis**
-   - Click the microphone button to start recording your conversation
-   - Your speech will be transcribed in real-time
-   - After the conversation, click "Get Feedback" to receive AI analysis
-   - Review your communication score and personalized improvement suggestions
-
-5. **Ending Conversations**
-   - Click "Next Chat" to end the current conversation and return to the dashboard
-   - Click "Logout" to sign out completely
-
-### For Developers
-
-### API Endpoints
-
-#### Authentication
-- `POST /api/auth/register` - Create new user account
-- `POST /api/auth/login` - Authenticate user and get token
-
-#### Conversation Analysis
-- `POST /api/analyze-conversation` - Analyze conversation transcript with Gemini AI
-
-#### Protected Routes
-- `GET /api/protected/profile` - Get user profile (requires auth)
-
-#### Health Check
-- `GET /health` - Server health status
-
-### Socket.io Events
-- `connection` - User connects to server
-- `disconnect` - User disconnects
-- `lobby` - User enters waiting queue
-- `send-offer` - Initiate WebRTC connection
-- `send-answer` - Respond to WebRTC offer
-- `ice-candidate` - Exchange ICE candidates
-
 ## 🔒 Security Features
 
 - **JWT Authentication** - Secure token-based authentication
@@ -280,40 +230,6 @@ VITE_API_URL=http://localhost:3000
 ### Docker Deployment (Optional)
 Create Dockerfile and docker-compose.yml for containerized deployment.
 
-## 🎯 Future Enhancements
-
-### Planned Features
-- **📱 Mobile App** - Native iOS and Android applications
-- **🌍 Language Support** - Multi-language interface
-- **👥 Group Chat** - Multi-user video conversations
-- **💬 Text Chat** - Integrated messaging system
-- **🎭 Filters & Effects** - Video filters and AR effects
-- **📊 Analytics** - User engagement and conversation analytics
-- **🤖 Enhanced AI** - More sophisticated conversation AI
-- **🔔 Notifications** - Push notifications for new connections
-
-### AI Improvements
-- **Context-Aware Suggestions** - AI that learns from conversation context
-- **Personality Matching** - Match users based on conversation preferences
-- **Translation Support** - Real-time translation for international users
-- **Sentiment Analysis** - Monitor conversation quality and engagement
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow TypeScript best practices
-- Write clean, commented code
-- Test your changes thoroughly
-- Update documentation as needed
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -326,37 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** - For the beautiful UI framework
 - **React Community** - For the amazing ecosystem and tools
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the FAQ** section below
-2. **Search existing issues** on GitHub
-3. **Create a new issue** with detailed information
-4. **Contact the development team** at [support@baatcheet.com](mailto:support@baatcheet.com)
-
-## ❓ FAQ
-
-**Q: Is Baatcheet free to use?**
-A: Yes, Baatcheet is completely free for all users.
-
-**Q: How does the AI suggestion feature work?**
-A: The AI analyzes conversation categories and provides relevant questions to help keep conversations engaging and meaningful.
-
-**Q: Are my conversations private?**
-A: Yes, all video chats are peer-to-peer and not stored on our servers. We only store user authentication data.
-
-**Q: Can I use Baatcheet on mobile devices?**
-A: Yes, Baatcheet is responsive and works on all modern mobile browsers.
-
-**Q: What are the system requirements?**
-A: A modern web browser, camera, microphone, and stable internet connection are required.
-
-**Q: Do I need a Gemini API key to run the app?**
-A: Yes, the voice analysis feature requires a Google Gemini API key. However, the basic video chat functionality works without it.
-
 ---
 
-**Made with ❤️ by the Baatcheet Team**
+**Made by - Rishabh Ojha**
 
 *Connecting people, one conversation at a time.*
