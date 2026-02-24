@@ -218,29 +218,9 @@ PORT=3000
 VITE_API_URL=http://localhost:3000
 ```
 
-## 🚀 Deployment
-
-### Production Deployment
-1. Build frontend: `npm run build` in frontend directory
-2. Build backend: `npm run build` in backend directory
-3. Set production environment variables
-4. Start backend server: `npm start`
-5. Serve frontend files with nginx or similar
-
-### Docker Deployment (Optional)
-Create Dockerfile and docker-compose.yml for containerized deployment.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **WebRTC** - For enabling peer-to-peer video communication
-- **Socket.io** - For real-time WebSocket connections
-- **MongoDB Atlas** - For providing cloud database services
-- **Tailwind CSS** - For the beautiful UI framework
-- **React Community** - For the amazing ecosystem and tools
 
 ---
 
