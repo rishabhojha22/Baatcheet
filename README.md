@@ -3,8 +3,7 @@
 A modern video chat application that connects strangers worldwide through face-to-face conversations, enhanced with AI-powered conversation suggestions and voice analysis.
 
 <img width="1919" height="909" alt="Screenshot 2026-02-23 223726" src="https://github.com/user-attachments/assets/007be4df-9875-4492-80ec-7d2f66eb0c66" />
-![Uploading Screenshot 2026-02-23 223909.png…]()
-![Uploading Screenshot 2026-02-23 223937.png…]()
+<img width="1919" height="905" alt="Screenshot 2026-02-23 223909" src="https://github.com/user-attachments/assets/fc00ae77-8fd5-421f-a89b-18f7698c8bc4" />
 <img width="1919" height="912" alt="Screenshot 2026-02-23 224007" src="https://github.com/user-attachments/assets/0b538233-67db-4d26-ac81-573f14e90d24" />
 
 ## 🌟 Features
