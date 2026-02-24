@@ -1,10 +1,11 @@
 # बातचीत (Baatcheet) - AI-Powered Video Chat Platform
 
 A modern video chat application that connects strangers worldwide through face-to-face conversations, enhanced with AI-powered conversation suggestions and voice analysis.
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/ad2e5a08-c551-4cf4-96cd-ed09005b8995" />
-<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/421c2ca2-9968-4f63-b365-5670ff334cf0" />
-<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/f5cdbc4a-3aca-4c18-98c9-507c946d12a5" />
-<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/464aa9b1-846a-4a2d-b2db-6f84b2474823" />
+
+<img width="1919" height="909" alt="Screenshot 2026-02-23 223726" src="https://github.com/user-attachments/assets/007be4df-9875-4492-80ec-7d2f66eb0c66" />
+![Uploading Screenshot 2026-02-23 223909.png…]()
+![Uploading Screenshot 2026-02-23 223937.png…]()
+<img width="1919" height="912" alt="Screenshot 2026-02-23 224007" src="https://github.com/user-attachments/assets/0b538233-67db-4d26-ac81-573f14e90d24" />
 
 ## 🌟 Features
 
